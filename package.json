@@ -1,0 +1,22 @@
+{
+  "name": "greed-is-good",
+  "version": "1.0.0",
+  "description": "A playground for obtaining and transforming AI training data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakobLyon/greed-is-good.git"
+  },
+  "author": "Jakob Lyon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakobLyon/greed-is-good/issues"
+  },
+  "homepage": "https://github.com/JakobLyon/greed-is-good#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
